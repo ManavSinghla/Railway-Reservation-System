@@ -1,0 +1,39 @@
+/* Styling for PNR Enquiry Form */
+#pnrEnquiryForm {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#pnrEnquiryForm label {
+    margin-bottom: 10px;
+    display: block;
+}
+
+#pnrEnquiryForm input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+#pnrEnquiryForm button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+}
+
+/* Styling for PNR Result */
+#pnrResult {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#pnrResult p {
+    margin-bottom: 15px;
+}
